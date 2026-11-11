@@ -1,0 +1,18 @@
+# AdBlockTube
+
+> AdBlockTube, made by Shidin (contact: shidin@shidin.com), is a free video browser for iPhone (iOS 26 or later). It blocks video ads, banners and trackers, keeps playing in the background with the screen locked, and opens YouTube, YouTube Music, Twitch, Kick, Reddit, X and Instagram with native iOS tabs instead of an address bar. Independent; not affiliated with YouTube or Google.
+
+- Free: ad, tracker and sponsor-segment blocking (SponsorBlock), Return YouTube Dislike counts, background play, Lock Screen controls, Picture in Picture, AirPlay, Spatial Audio, hold for 2× speed, sleep timer, Privacy Lock (Face ID), Home Screen widget, 13 languages. The free version shows one banner ad.
+- Pro (monthly, yearly with free trial for eligible new subscribers, or lifetime): no banner, CarPlay, Up Next queue with saved queues.
+- Does not download or store videos. iPhone only; no iPad layout or Android version.
+- Filter lists and site scripts update over the air as a signed bundle, without App Store updates.
+
+## Pages
+
+- [Home](https://adblocktube.com/): features, Free vs Pro, FAQ
+- [How to play YouTube in the background on iPhone](https://adblocktube.com/youtube-background-play-iphone/)
+- [How to block YouTube ads on iPhone](https://adblocktube.com/block-youtube-ads-iphone/)
+- [How to use YouTube Picture in Picture on iPhone](https://adblocktube.com/youtube-picture-in-picture-iphone/)
+- [Support](https://adblocktube.com/support/)
+- [Privacy policy](https://adblocktube.com/privacy/)
+- [App Store](https://apps.apple.com/app/id6827962789)
